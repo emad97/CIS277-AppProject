@@ -2,7 +2,7 @@
 
 This is the easiest and most reliable calculator Application.
 
-You can do the four basic mathematical operations with only one click.
+You can do the four basic mathematical operations with only two clicks.
 
 ### Markdown
 
