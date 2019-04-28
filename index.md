@@ -8,4 +8,4 @@ You can do the four basic mathematical operations using this calculator.
 -After that you will be asked to choose the mathmatical operation 
  that you'd like to performe on the numbers you inserted.
 
-App link: [link](https://repl.it/@imad97/Final-App-Project)  
+App [link](https://repl.it/@imad97/Final-App-Project):  
