@@ -10,5 +10,5 @@ You can do the four basic mathematical operations using this calculator.
  that you'd like to performe on the numbers you inserted.
  
 
-#### Click [here](https://repl.it/@imad97/Final-App-Project) To access the calculator app
+#### Click the [link](https://repl.it/@imad97/Final-App-Project) to access the calculator app
   
